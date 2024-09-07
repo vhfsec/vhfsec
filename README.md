@@ -1,8 +1,16 @@
-Welcome to vhfsec's Lab 🔐
-Penetration Tester | Cybersecurity Enthusiast | Developer in Progress
+# 👋 Welcome to vhfsec's GitHub Profile
 
-I'm diving deep into Cybersecurity and Development, constantly learning and pushing the boundaries of what's possible. Currently, I'm focused on building my skills through the CS50 course and preparing for the PTNPT (Practical Network Penetration Tester) certification.
+## About Me
+Hello! I'm currently diving into the world of computer science through [CS50](https://cs50.harvard.edu/) and preparing for the [PNPT](https://certifications.tcm-sec.com/pnpt/) certificate. My interests lie in cybersecurity and development, and I'm excited to share my journey and projects with you! 🔐💻
 
-⚡ Current Focus:
-CS50: Expanding my programming knowledge in C, Python, and web development.
-PNPT: Sharpening my penetration testing skills with hands-on labs and real-world scenarios.
+## Skills
+- **Cybersecurity:** Penetration Testing, Vulnerability Assessment 🛡️
+- **Programming Languages:** C, Python, Bash, JavaScript, HTML, CSS 🖥️
+- **Development:** Web Development, API Integration 🌐
+
+## Courses & Certifications
+- **CS50:** Currently enrolled in [CS50](https://cs50.harvard.edu/) 🎓
+- **PNPT:** Preparing for the [PNPT](https://certifications.tcm-sec.com/pnpt/) certification 📜
+
+## Contact
+Feel free to reach out or connect with me on [GitHub](https://github.com/vhfsec) 🔗
