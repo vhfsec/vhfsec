@@ -1,16 +1,40 @@
-# 👋 Welcome to vhfsec's GitHub Profile
+# 👋 Finstad Utvikling
 
-## About Me
-Hello! I'm currently diving into the world of computer science through [CS50](https://cs50.harvard.edu/) and preparing for the [PNPT](https://certifications.tcm-sec.com/pnpt/) certificate. My interests lie in cybersecurity and development, and I'm excited to share my journey and projects with you! 🔐💻
+I build **fast, clean websites and web apps** for small businesses — with a focus on clarity, performance, and a premium look.
 
-## Skills
-- **Cybersecurity:** Penetration Testing, Vulnerability Assessment 🛡️
-- **Programming Languages:** C, Python, Bash, JavaScript, HTML, CSS 🖥️
-- **Development:** Web Development, API Integration 🌐
+- ⚡ Modern stack (SvelteKit / React, Tailwind, Firebase/Supabase when it fits)
+- 🧠 Strong focus on UX + conversion (not “features for features”)
+- 🔧 Reliable delivery: structure, documentation, and maintainable code
 
-## Courses & Certifications
-- **CS50:** Currently enrolled in [CS50](https://cs50.harvard.edu/) 🎓
-- **PNPT:** Preparing for the [PNPT](https://certifications.tcm-sec.com/pnpt/) certification 📜
+---
+
+## What I do
+
+### Websites that actually work
+Landing pages, company sites, booking/info pages — built to load fast, look sharp, and be easy to update.
+
+### Web apps & dashboards
+Internal tools, admin panels, simple SaaS prototypes, integrations, and automations.
+
+### Ongoing maintenance (optional)
+Hosting, monitoring, updates, small improvements — so the site stays healthy after launch.
+
+---
+
+## Selected work
+- **Gjenvinn Livet** — Website for app launch + public “window” for awareness
+- **Glåmdal Dyreklinikk** — Digital improvements & integrations (booking / systems)
+- **Streamline** — Dashboard & platform development
+
+> More: https://finstad.dev
+
+---
+
+## Tech I like working with
+SvelteKit • React • Tailwind • Firebase • Supabase • Vercel • Cloudflare • Stripe (when needed)
+
+---
 
 ## Contact
-Feel free to reach out or connect with me on [GitHub](https://github.com/vhfsec) 🔗
+🌐 https://finstad.dev  
+📩 DM me here on GitHub
